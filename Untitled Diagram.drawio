@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="X9F4iZ3yf1Rp1Y7QcoCt">
-    <mxGraphModel dx="3362" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5071" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,20 +89,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-22" target="SdUCmdPi41Y6QKEsL1FT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-22" value="Flagpole diagram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-23" value="Diagram and labels" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SdUCmdPi41Y6QKEsL1FT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-25" target="SdUCmdPi41Y6QKEsL1FT-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-25" value="Mean, Median, Mode, and Range." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-26" value="Elimination" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1460.5" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-29" target="SdUCmdPi41Y6QKEsL1FT-32">
           <mxGeometry relative="1" as="geometry" />
