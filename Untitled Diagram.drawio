@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="X9F4iZ3yf1Rp1Y7QcoCt">
-    <mxGraphModel dx="2860" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2733" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="517.5" y="360" width="960" height="590" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-1" value="Project: Estimating the Height of a Flagpole Using Trigonometry and a Clinometer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFB;" vertex="1" parent="1">
-          <mxGeometry x="-675" y="110" width="980" height="90" as="geometry" />
+          <mxGeometry x="-76" y="80" width="980" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-3" target="SdUCmdPi41Y6QKEsL1FT-29">
           <mxGeometry relative="1" as="geometry" />
@@ -132,13 +132,13 @@
           <mxGeometry x="1157.5" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-35" value="Zari Moring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFAD;" vertex="1" parent="1">
-          <mxGeometry x="405" y="125" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="95" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-37" target="SdUCmdPi41Y6QKEsL1FT-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-37" value="Goal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="-657.5" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-38" value="&lt;p class=&quot;&quot; data-end=&quot;41&quot; data-start=&quot;0&quot;&gt;&lt;strong data-end=&quot;41&quot; data-start=&quot;0&quot;&gt;Goal of the Project:&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;483&quot; data-start=&quot;43&quot;&gt;The main goal of this project was to &lt;em data-end=&quot;126&quot; data-start=&quot;80&quot;&gt;accurately estimate the height of a flagpole&lt;/em&gt; using tools we made ourselves and math we learned in class—specifically &lt;strong data-end=&quot;215&quot; data-start=&quot;199&quot;&gt;trigonometry&lt;/strong&gt;. We didn’t use a ladder, measuring tape, or drone. Instead, we used a &lt;strong data-end=&quot;309&quot; data-start=&quot;286&quot;&gt;homemade clinometer&lt;/strong&gt; and the &lt;strong data-end=&quot;338&quot; data-start=&quot;318&quot;&gt;tangent function&lt;/strong&gt; from trigonometry to figure out how tall the flagpole is by only knowing how far we were from it and the angle we looked up at it from our eyes.&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;615&quot; data-start=&quot;485&quot;&gt;This project helped us apply math in a real-world situation. It wasn’t just about plugging numbers into a calculator—it was about:&lt;/p&gt;&lt;ul data-end=&quot;916&quot; data-start=&quot;616&quot;&gt;&lt;li class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;616&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;618&quot;&gt;Using a simple handmade tool to measure angles (the clinometer),&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;616&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;618&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Taking real measurements outside the classroom,&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;616&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;618&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Using a math formula in a way that actually solves a real problem, and&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;616&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;618&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Learning how to deal with small errors and improve accuracy by collecting multiple data points and analyzing them.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;1136&quot; data-start=&quot;918&quot;&gt;So basically, the goal was to use hands-on learning, critical thinking, and trigonometry to &lt;strong data-end=&quot;1074&quot; data-start=&quot;1010&quot;&gt;figure out the height of something we can’t directly measure&lt;/strong&gt;, while understanding how math can be useful in everyday life.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1422.5" y="390" width="780" height="360" as="geometry" />
@@ -148,13 +148,13 @@
             <mxPoint x="392.5" y="770" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdUCmdPi41Y6QKEsL1FT-40" value="Phase1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-40" value="Phase1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="-542.5" y="420" width="935" height="330" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-42" target="SdUCmdPi41Y6QKEsL1FT-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SdUCmdPi41Y6QKEsL1FT-42" value="Phase2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-42" value="Phase2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="-542.5" y="810" width="935" height="330" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.997;exitY=0.588;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-43" target="SdUCmdPi41Y6QKEsL1FT-67">
@@ -162,7 +162,7 @@
             <mxPoint x="385" y="1550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdUCmdPi41Y6QKEsL1FT-43" value="phase 3&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-43" value="phase 3&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
           <mxGeometry x="-550" y="1200" width="935" height="330" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-45" target="SdUCmdPi41Y6QKEsL1FT-47">
@@ -198,11 +198,6 @@
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-53" value="Different distances arranged from lowest to highest with short explanation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1057.5" y="1015" width="400" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="SdUCmdPi41Y6QKEsL1FT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1022.5" y="1717.6666666666667" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-54" target="SdUCmdPi41Y6QKEsL1FT-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-82.5" y="2240" as="targetPoint" />
@@ -212,25 +207,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdUCmdPi41Y6QKEsL1FT-54" value="Elimination of &lt;b&gt;Outliers&lt;/b&gt;&lt;div&gt;&lt;p class=&quot;&quot; data-end=&quot;586&quot; data-start=&quot;208&quot;&gt;to the top of the flagpole. However, when working with experimental data, it&#39;s important to make sure all the numbers are reasonable and consistent with the others. Sometimes, measurement error or unusual factors can cause outliers, or results that don&#39;t fit the general trend.&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;After checking the data carefully, we realized that two specific rows (4 and 13) produced &lt;strong data-end=&quot;744&quot; data-start=&quot;678&quot;&gt;values that were too far off from the rest of the measurements&lt;/strong&gt;, meaning they didn’t match the expected pattern. These rows were likely caused by some mistake in measurement, misreading the angle, or possibly an issue with the clinometer itself when it was used.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;Here’s the &lt;strong data-end=&quot;2201&quot; data-start=&quot;2183&quot;&gt;original table&lt;/strong&gt; with rows 4 and 13 crossed out (to show the eliminated data):&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;After eliminating the two outliers (rows 4 and 13), the table looks like this:&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="1620" width="385" height="390" as="geometry" />
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-54" target="SdUCmdPi41Y6QKEsL1FT-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1045" y="1910" />
+              <mxPoint x="-1030" y="1910" />
+              <mxPoint x="-1030" y="1715" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SdUCmdPi41Y6QKEsL1FT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-55" target="SdUCmdPi41Y6QKEsL1FT-56">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-54" value="Elimination of &lt;b&gt;Outliers&lt;/b&gt;&lt;div&gt;&lt;p class=&quot;&quot; data-end=&quot;586&quot; data-start=&quot;208&quot;&gt;to the top of the flagpole. However, when working with experimental data, it&#39;s important to make sure all the numbers are reasonable and consistent with the others. Sometimes, measurement error or unusual factors can cause outliers, or results that don&#39;t fit the general trend.&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;After checking the data carefully, we realized that two specific rows (4 and 13) produced &lt;strong data-end=&quot;744&quot; data-start=&quot;678&quot;&gt;values that were too far off from the rest of the measurements&lt;/strong&gt;, meaning they didn’t match the expected pattern. These rows were likely caused by some mistake in measurement, misreading the angle, or possibly an issue with the clinometer itself when it was used.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot; class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;Here’s the &lt;strong data-end=&quot;2201&quot; data-start=&quot;2183&quot;&gt;original table&lt;/strong&gt; with rows 4 and 13 crossed out (to show the eliminated data):&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot; class=&quot;&quot; data-end=&quot;943&quot; data-start=&quot;588&quot;&gt;After eliminating the two outliers (rows 4 and 13), the table looks like this:&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="1620" width="385" height="390" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-55" value="Copy of Diagram but with crossed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1020" y="1620" width="385" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="SdUCmdPi41Y6QKEsL1FT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1042.5" y="1962.3333333333335" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-56" value="copy of diagram without the two" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1020" y="1820" width="385" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="SdUCmdPi41Y6QKEsL1FT-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.02;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-54" target="SdUCmdPi41Y6QKEsL1FT-56">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-67" target="SdUCmdPi41Y6QKEsL1FT-69">
           <mxGeometry relative="1" as="geometry" />
@@ -264,6 +257,28 @@
         </mxCell>
         <mxCell id="SdUCmdPi41Y6QKEsL1FT-72" value="wrtie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1027.5" y="1795" width="383" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.979;exitY=0.931;exitDx=0;exitDy=0;entryX=0.53;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-54" target="SdUCmdPi41Y6QKEsL1FT-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1053" y="1990" />
+              <mxPoint x="-1050" y="1990" />
+              <mxPoint x="-1050" y="2030" />
+              <mxPoint x="-816" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-91" value="Overall project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="360" width="790" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-92" value="What I Learned/ Final thoughts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1595" width="790" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-93" value="Error percentile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="779" width="790" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-97" value="Geometry&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFAD;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="95" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
