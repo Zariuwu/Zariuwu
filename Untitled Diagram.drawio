@@ -1,9 +1,199 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="X9F4iZ3yf1Rp1Y7QcoCt">
-    <mxGraphModel>
+    <mxGraphModel dx="8487" dy="3313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-1" value="Project: Estimating the Height of a Flagpole Using Trigonometry and a Clinometer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="20" width="980" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-3" target="SdUCmdPi41Y6QKEsL1FT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-3" value="Visual representation of data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="400" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-7" target="SdUCmdPi41Y6QKEsL1FT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-7" target="SdUCmdPi41Y6QKEsL1FT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-7" value="Calculating and analyzing,&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-10" target="SdUCmdPi41Y6QKEsL1FT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-10" target="SdUCmdPi41Y6QKEsL1FT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-10" value="collecting the data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-12" target="SdUCmdPi41Y6QKEsL1FT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-12" value="Three Phases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-15" target="SdUCmdPi41Y6QKEsL1FT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-15" target="SdUCmdPi41Y6QKEsL1FT-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="290" />
+              <mxPoint x="-340" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-15" value="Clinometer&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-16" value="Standing in Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-20" target="SdUCmdPi41Y6QKEsL1FT-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-20" target="SdUCmdPi41Y6QKEsL1FT-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="370" />
+              <mxPoint x="40" y="400" />
+              <mxPoint x="-340" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-20" target="SdUCmdPi41Y6QKEsL1FT-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-20" value="Table of Calculation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-22" target="SdUCmdPi41Y6QKEsL1FT-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="380" />
+              <mxPoint x="-150" y="380" />
+              <mxPoint x="-150" y="420" />
+              <mxPoint x="-340" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-22" value="Flagpole diagram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-23" value="Diagram and labels" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-25" target="SdUCmdPi41Y6QKEsL1FT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-25" value="Mean, Median, Mode, and Range." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-26" value="Elimination" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380.5" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-29" target="SdUCmdPi41Y6QKEsL1FT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-29" target="SdUCmdPi41Y6QKEsL1FT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-29" value="Stem and Leaf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-32" target="SdUCmdPi41Y6QKEsL1FT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-32" target="SdUCmdPi41Y6QKEsL1FT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-32" value="Histogram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-34" target="SdUCmdPi41Y6QKEsL1FT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-34" value="Box and Whisker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-35" value="Zari Moring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-37" target="SdUCmdPi41Y6QKEsL1FT-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-37" value="Goal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-38" value="&lt;p class=&quot;&quot; data-end=&quot;41&quot; data-start=&quot;0&quot;&gt;&lt;strong data-end=&quot;41&quot; data-start=&quot;0&quot;&gt;Goal of the Project:&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;483&quot; data-start=&quot;43&quot;&gt;The main goal of this project was to &lt;em data-end=&quot;126&quot; data-start=&quot;80&quot;&gt;accurately estimate the height of a flagpole&lt;/em&gt; using tools we made ourselves and math we learned in class—specifically &lt;strong data-end=&quot;215&quot; data-start=&quot;199&quot;&gt;trigonometry&lt;/strong&gt;. We didn’t use a ladder, measuring tape, or drone. Instead, we used a &lt;strong data-end=&quot;309&quot; data-start=&quot;286&quot;&gt;homemade clinometer&lt;/strong&gt; and the &lt;strong data-end=&quot;338&quot; data-start=&quot;318&quot;&gt;tangent function&lt;/strong&gt; from trigonometry to figure out how tall the flagpole is by only knowing how far we were from it and the angle we looked up at it from our eyes.&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;615&quot; data-start=&quot;485&quot;&gt;This project helped us apply math in a real-world situation. It wasn’t just about plugging numbers into a calculator—it was about:&lt;/p&gt;&lt;ul data-end=&quot;916&quot; data-start=&quot;616&quot;&gt;&lt;li class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;616&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;618&quot;&gt;Using a simple handmade tool to measure angles (the clinometer),&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;616&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;618&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Taking real measurements outside the classroom,&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;616&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;618&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Using a math formula in a way that actually solves a real problem, and&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;616&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;676&quot; data-start=&quot;618&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Learning how to deal with small errors and improve accuracy by collecting multiple data points and analyzing them.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;1136&quot; data-start=&quot;918&quot;&gt;So basically, the goal was to use hands-on learning, critical thinking, and trigonometry to &lt;strong data-end=&quot;1074&quot; data-start=&quot;1010&quot;&gt;figure out the height of something we can’t directly measure&lt;/strong&gt;, while understanding how math can be useful in everyday life.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="240" width="780" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-40" target="SdUCmdPi41Y6QKEsL1FT-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-40" value="Phase1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-395" y="640" width="935" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-42" target="SdUCmdPi41Y6QKEsL1FT-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-460" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-459" y="1165" />
+              <mxPoint x="-459" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-42" value="Phase2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-395" y="1000" width="935" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-43" value="phase 3&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1360" width="935" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-45" target="SdUCmdPi41Y6QKEsL1FT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-45" value="Table of calculations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1275" y="630" width="770" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-47" target="SdUCmdPi41Y6QKEsL1FT-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-47" value="Flagpole Diagram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1275" y="1050" width="385" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-48" value="flagpole writeup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="1050" width="385" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-49" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-47" target="SdUCmdPi41Y6QKEsL1FT-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-730" y="1310" as="sourcePoint" />
+            <mxPoint x="-680" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-50" value="Mean Median, Mode, and Range with writeup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="1470" width="790" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdUCmdPi41Y6QKEsL1FT-52" target="SdUCmdPi41Y6QKEsL1FT-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-52" value="Clinometer and labels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="400" width="400" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SdUCmdPi41Y6QKEsL1FT-53" value="Different distances arranged from lowest to highest with short explanation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="710" width="400" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
